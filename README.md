@@ -6,7 +6,7 @@
 >  
 > 📍 **Paper PDF (CVF Open Access):** *Coming Soon*  
 > 🎴 **Poster:** *Coming Soon*  
-> 👨🏻‍🔬 **Authors:** Md. Farhadul Islam, Tashik Ahmed, Partho Chanda, Joyanta Jyoti Mondal, Meem Arafat Manab, Sarah Zabeen, and Jannatun Noor
+> 👨🏻‍🔬 **Authors:** Md. Farhadul Islam, Tashik Ahmed, Partho Chanda, Joyanta Jyoti Mondal, Meem Arafat Manab, Sarah Zabeen & Jannatun Noor
 ---
 
 
