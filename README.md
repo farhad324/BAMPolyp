@@ -52,7 +52,7 @@
 </p>
 
 **Architecture Summary**:
-- Encoder: Pretrained **EfficientNet-B0**
+- Encoder: **EfficientNet-B0**
 - Bottleneck: **Bi-Axial Mamba Block** (separate width- and height-axis Mamba SSM)
 - Decoder: U-Net-style upsampling with **deep supervision**
 - Losses: Composite (BCE + Dice + IoU + Focal + Tversky + Boundary)
