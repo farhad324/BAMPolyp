@@ -4,8 +4,8 @@
 > 📄 *BAMPolyp: Bi-Axial Mamba Bottleneck for Gastrointestinal Polyp Segmentation*  
 > 🏆 Accepted at **[ICCV 2025](https://iccv.thecvf.com/), [CVAMD Workshop](https://cvamd.github.io/CVAMD2025/)**  
 > 📍 [Paper PDF: CVF Open Access] (Coming Soon)
-> 🎴 [Poster] (Coming Soon)
-> 👨🏻‍🔬 Authors: Md. Farhadul Islam, Tashik Ahmed, Partho Chanda, Joyanta Jyoti Mondal, Meem Arafat Manab, Sarah Zabeen, and Jannatun Noor
+>   🎴 [Poster] (Coming Soon)
+>  👨🏻‍🔬 Authors: Md. Farhadul Islam, Tashik Ahmed, Partho Chanda, Joyanta Jyoti Mondal, Meem Arafat Manab, Sarah Zabeen, and Jannatun Noor
 ---
 
 ## 🧠 Overview
