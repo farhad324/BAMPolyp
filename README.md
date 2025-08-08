@@ -1,4 +1,4 @@
-# \[CVAMD @ ICCV2025 🌺\] BAMPolyp: Bi-Axial Mamba Bottleneck for Gastrointestinal Polyp Segmentation
+# \[🩺CVAMD @ ICCV2025🌺\] BAMPolyp: Bi-Axial Mamba Bottleneck for Gastrointestinal Polyp Segmentation
 
 > **Official PyTorch implementation of the paper**  
 > 📄 *BAMPolyp: Bi-Axial Mamba Bottleneck for Gastrointestinal Polyp Segmentation*  
