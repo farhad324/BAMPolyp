@@ -55,3 +55,19 @@
 
 ---
 
+
+---
+
+## 📚 Citation
+
+If you find **BAMPolyp** useful in your research, please cite our paper:
+
+(Coming Soon)
+```bibtex
+@inproceedings{islam2025bampolyp,
+  title     = {BAMPolyp: Bi-Axial Mamba Bottleneck for Gastrointestinal Polyp Segmentation},
+  author    = {Islam, Md. Farhadul and Ahmed, Tashik and Chanda, Partho and Mondal, Joyanta Jyoti and Manab, Meem Arafat and Zabeen, Sarah and Noor, Jannatun},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCV) Workshops},
+  year      = {2025}
+}
+```
