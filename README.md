@@ -60,8 +60,6 @@
 ---
 
 
----
-
 ## 📚 Citation
 
 If you find **BAMPolyp** useful in your research, please cite our paper:
