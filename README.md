@@ -6,7 +6,6 @@
 >  
 > 📍 **Paper PDF (CVF Open Access):** *Coming Soon*  
 > 🎴 **Poster:** [Click Here](https://github.com/farhad324/BAMPolyp/blob/main/bampolyp.pdf)
-
 > 👨🏻‍🔬 **Authors:** Md. Farhadul Islam, Tashik Ahmed, Partho Chanda, Joyanta J. Mondal, Meem Arafat Manab, Sarah Zabeen & Jannatun Noor
 ---
 
